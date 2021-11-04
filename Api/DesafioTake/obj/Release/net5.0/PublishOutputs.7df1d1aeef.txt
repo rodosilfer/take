@@ -1,0 +1,12 @@
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.exe
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.dll
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.deps.json
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.runtimeconfig.json
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.pdb
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rodolfo\source\repos\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
