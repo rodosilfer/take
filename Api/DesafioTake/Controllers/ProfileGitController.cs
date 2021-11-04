@@ -24,9 +24,11 @@ namespace DesafioTake.Controllers
         }
 
         [HttpGet]
-
+    
         public async Task<ActionResult<List<ProfileGitModel>>> getUser()
         {
+            // task responsavel por consultar a api do gtithub, pegar o resultado e filtrar conforme pedido no desafio
+          
             List<ProfileGitModel> profile;
             var url = "https://api.github.com/orgs/takenet/repos";
             try

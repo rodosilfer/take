@@ -3,9 +3,10 @@ using System.Net.Http;
 using System.Threading.Tasks;
 
 namespace DesafioTake.Services
-{
+{  
     public static class SendWebrequestService
     {
+        //Serviço que envia requisições get e devolve a resposta para o controller solicitante
         public static async Task<string> SendGetRequest(string url)
         {
             var httpClient = new HttpClient();

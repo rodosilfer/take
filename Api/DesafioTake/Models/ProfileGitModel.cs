@@ -6,7 +6,7 @@ using System.Net.Http;
 
 namespace DesafioTake.Models
 {
-
+    //modelo dos dados de resposta
     public class Owner
     {
         public string Avatar_url { get; set; }
